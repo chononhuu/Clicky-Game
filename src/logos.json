@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "GOT Logo",
+        "image": "assets/images/gotlogo.png"
+    },
+    {
+        "id": 2,
+        "name": "GOT Title",
+        "image": "assets/images/gottitle.png"
+    }
+]

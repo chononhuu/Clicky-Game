@@ -1,0 +1,12 @@
+#footerTop {
+    background-color: #c83b29;
+    height: 70px;
+    width: 100%;
+}
+#footerBottom {
+    background-color: #272727;
+    height: 30px;
+    width: 100%;
+    box-shadow: 0 -14px 18px rgba(0,0,0,.25), 
+                0 -10px 10px rgba(0,0,0,.15);
+}
