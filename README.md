@@ -3,7 +3,8 @@
 ![Clicky Game](https://github.com/chononhuu/Clicky-Game/blob/master/public/assets/images/game.PNG)
 
 ## About
-Memory challenging game with Game of Thrones Characters
+* Memory challenging game with Game of Thrones Characters
+* Deployed Link: [Play Here](https://github.com/chononhuu/Clicky-Game/blob/master/public/assets/images/game.PNG)
 
 ## Getting Started
 * Clicking on an image that has not been selected will increment the score.
