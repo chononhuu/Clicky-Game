@@ -1,6 +1,6 @@
 # Clicky-Game 
 
-![Clicky Game](https://octodex.github.com/images/yaktocat.png)
+![Clicky Game](https://github.com/chononhuu/Clicky-Game/blob/master/public/assets/images/game.PNG)
 
 ## About
 Memory challenging game with Game of Thrones Characters
